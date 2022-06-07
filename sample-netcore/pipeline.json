@@ -13,7 +13,7 @@
   },
   "archive": {
     "registry": "docker.io",
-    "repository": "vineetall/sample-netcore"
+    "repository": "vineetall/testnetcore"
   },
   "deploy": {
     "containerPort": 5000
